@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap vscode",
+			"path": "."
+		},
+		{
+			"name": "Array.java",
+			"path": "../../../../../Kiran/Array.java"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap vscode"
+	}
+}
